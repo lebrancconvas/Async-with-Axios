@@ -8,11 +8,11 @@
 
 ### Programming Language
 
-- NodeJS (Javascript)
+- [NodeJS (Javascript)](https://nodejs.org)
   
 ### Library / Framework
 
-- Axios (API Management Library)
+- [Axios (API Management Library)](https://axios-http.com)
 
 ## Resource
 
