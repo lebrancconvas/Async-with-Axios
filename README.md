@@ -2,7 +2,7 @@
 
 ## Purpose
 
-- Learning Asynchronus Management Concept in Javascript (NodeJS) with Axios.
+- Learning Asynchronus Management Concept in Javascript (NodeJS) via Getting API from Axios GET (Asynchronous) Function.
 
 ## Resource
 
